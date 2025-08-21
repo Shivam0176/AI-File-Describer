@@ -2,7 +2,7 @@ from google import genai
 from google.genai import types
 import mimetypes
 
-GEMINI_API_KEY = "AIzaSyDwfBwNVK1zQ2zSYZg1u01aNMmIKEtLEIU"
+GEMINI_API_KEY = "PASTE YOU API KEY"
 
 client = genai.Client(api_key=GEMINI_API_KEY)
 
